@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hai, Raymonds
+=======
+Amaya's edit.Hai, Raymonds
+>>>>>>> main
